@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Month01/Month01/BaseScript/BaseScript/Assets/Scenes/2048.unity
+  isLoaded: 1
+  isActive: 1
